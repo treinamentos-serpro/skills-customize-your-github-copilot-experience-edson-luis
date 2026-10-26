@@ -65,6 +65,13 @@
       "description": "Construa uma API REST para gerenciar tarefas com FastAPI, incluindo rotas CRUD, validação de dados e respostas HTTP.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-11-02"
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persistência com SQLite e FastAPI",
+      "description": "Adicione persistência SQLite a uma API de tarefas FastAPI e mantenha os dados após reiniciar a aplicação.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-02"
     }
   ]
 }
